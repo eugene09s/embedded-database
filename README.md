@@ -1,1 +1,1 @@
-# embedded-database
+# Embedded Postgres for testing
